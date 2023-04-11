@@ -13,4 +13,4 @@ while True:
     pyautogui.moveTo(x + dx, y + dy, duration=0)
     
     # Wait for 1 minute before moving the mouse again
-    time.sleep(5)
+    time.sleep(60)
